@@ -1,4 +1,11 @@
 <!--[![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)-->
+Indice
+# Boas Praticas GitHub
+# Ferramentas uteis
+# Configurar login com ssh
+# Gerando chaves ssh
+# Comandos Basicos no git
+
 <h1>Boas Praticas GitHub</h1>	
 <h3>Ferramentas uteis</h3>
 	<p><a href="https://www.git-scm.com/download/win">Git Bash</a> -  Interpretador Linux para windows, simula um terminal linux no windows.</p>

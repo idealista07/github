@@ -3,8 +3,8 @@
 </br>
 #Ferramentas uteis
 	<p><a href="https://www.git-scm.com/download/win">git bash</a> -  Interpretador Linux para windows, simula um terminal linux no windows.</p>
-	<p><a href="">vscode</a> -  Compilador de codigo compativel com git, ainda não testei a fundo, em breve trago mais informações</p>
-	<p><a href="">github desktop</a> - Gerenciador para github é possivel fazer todas as operações como commit, pull, branch sem uso de comandos, usando apenas a interface
+	<p><a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/VSCodeUserSetup-x64-1.85.1.exe">vscode</a> -  Compilador de codigo compativel com git, ainda não testei a fundo, em breve trago mais informações</p>
+	<p><a href="https://central.github.com/deployments/desktop/desktop/latest/win32">github desktop</a> - Gerenciador para github é possivel fazer todas as operações como commit, pull, branch sem uso de comandos, usando apenas a interface
 	grafica, algo que considero muito interessante que é possivel clonar o repositorio modificar e depois aplicar na sua conta do git apartir de uma interface grafica. 
 	no meu caso que possuo um servidor de arquivo centralizei tudo em uma pasta e posso modificar mantendo tudo centralizado.</p>
 
